@@ -3,7 +3,6 @@
 }
 
 #splash {
-  background-color: #f5ff66;
   color: white;
   font-size: 10px;
   width: 500px;
@@ -17,6 +16,7 @@
   color: white;
   width: 300px;
   border: 2px solid white;
+  position: fixed;
   left: 25%;
   top: 400px;
 }
