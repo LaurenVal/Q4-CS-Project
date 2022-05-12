@@ -9,5 +9,14 @@
   width: 500px;
   position: fixed;
   left: 25%;
-  top: 10%;
+  top: 100px;
+}
+
+#leaderboard {
+  text-align: center;
+  color: white;
+  width: 300px;
+  border: 2px solid white;
+  left: 25%;
+  top: 400px;
 }
