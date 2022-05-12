@@ -1,0 +1,18 @@
+* {
+  background-color: #7a526e;
+}
+
+#question {
+  background-color: #756575;
+  color: white;
+  border: 5px solid white;
+}
+
+#nextPrev {
+  color: #979c5a;
+  border-color: 1px solid #eef58e;
+  background-color: #eaf2cb; 
+  text-align: center;
+  width: 200px;
+  text-decoration: none;
+}

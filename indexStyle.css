@@ -1,0 +1,38 @@
+* {
+  background-color: #7a526e;
+}
+
+#logo {
+  position: fixed;
+  left: 25%;
+  top: 10%;
+  width: 500px;
+  text-align: center;
+  border: 5px solid white;
+  color: white;
+}
+
+#name {
+  position: fixed;
+  left: 25%;
+  top: 40%;
+
+}
+
+label {
+  position: fixed;
+  left: 25%;
+  color: white;
+  top: 35%;
+  text-align: center;
+}
+
+#play {
+  position: fixed;
+  left: 25%;
+  color: #979c5a;
+  border-color: 1px solid #eef58e;
+  background-color: #eaf2cb; 
+  text-align: center;
+  top: 46%;
+}
