@@ -23,7 +23,7 @@ label {
   position: fixed;
   left: 25%;
   color: white;
-  top: 330px;
+  top: 365px;
   text-align: center;
 }
 
@@ -34,5 +34,5 @@ label {
   border-color: 1px solid #eef58e;
   background-color: #eaf2cb; 
   text-align: center;
-  top: 350px;
+  top: 385px;
 }
