@@ -5,7 +5,7 @@
 #logo {
   position: fixed;
   left: 25%;
-  top: 10%;
+  top: 100px;
   width: 500px;
   text-align: center;
   border: 5px solid white;
@@ -15,7 +15,7 @@
 #name {
   position: fixed;
   left: 25%;
-  top: 40%;
+  top: 350px;
 
 }
 
@@ -23,7 +23,7 @@ label {
   position: fixed;
   left: 25%;
   color: white;
-  top: 35%;
+  top: 400px;
   text-align: center;
 }
 
@@ -34,5 +34,5 @@ label {
   border-color: 1px solid #eef58e;
   background-color: #eaf2cb; 
   text-align: center;
-  top: 46%;
+  top: 400px;
 }
